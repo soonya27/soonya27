@@ -32,7 +32,7 @@
 
 
 ## profile
-### [profile](https://soonya27.github.io/profile000/)
+### [profile](https://soonya27.github.io/profile000/about.html)
 
 
 
