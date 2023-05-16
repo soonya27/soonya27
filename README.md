@@ -1,4 +1,4 @@
-### pyeon so yeong 👋
+### pyeon so yeong
 
 ## Tech Stack
 <div align=center> 
