@@ -1,4 +1,5 @@
 ### pyeon so yeong
+### 편소영
 
 ## 📚 Tech Stack 📚
 <div align=center> 
