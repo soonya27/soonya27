@@ -1,5 +1,5 @@
 ### pyeon so yeong
-### 편소영
+### [편소영(profile)](https://soonya27.github.io/profile000/about.html)
 
 ## 📚 Tech Stack 📚
 <div align=center> 
@@ -28,11 +28,6 @@
 
 
 
-
-
-
-## profile
-### [profile](https://soonya27.github.io/profile000/about.html)
 
 
 
