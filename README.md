@@ -34,12 +34,10 @@
 ## portfolio example
 #### [webportfolio001(2020)](https://github.com/soonya27/webPortfolio001)
 #### [webportfolio002(2020)](https://github.com/soonya27/webPortfolio002)
+#### [JSmodule - modal.js](https://github.com/soonya27/modal.js)
+#### [JSgame - cardGame-pick-flip-shuffle-](https://github.com/soonya27/cardGame-pick-flip-shuffle-)
 
-## module
-### [modal.js](https://github.com/soonya27/modal.js)
 
-## game(card Shuffle)
-### [cardGame-pick-flip-shuffle-](https://github.com/soonya27/cardGame-pick-flip-shuffle-)
 
 
 
