@@ -39,7 +39,7 @@
 ### [modal.js](https://github.com/soonya27/modal.js)
 
 ## game(card Shuffle)
-### [cardGame-pick-flip-shuffle-](https://soonya27.github.io/cardGame-pick-flip-shuffle-/)
+### [cardGame-pick-flip-shuffle-](https://github.com/soonya27/cardGame-pick-flip-shuffle-)
 
 
 
