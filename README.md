@@ -15,11 +15,16 @@
 <div align=center> 
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&amp;logoColor=white">
+  </div>
+  <div align=center> 
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/SWR-000?logo=swr&logoColor=fff&style=for-the-badge">
 </div>
 <div align=center> 
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&amp;logoColor=black">
+  <img src="https://img.shields.io/badge/Sanity-F03E2F?logo=sanity&logoColor=fff&style=for-the-badge">
+ 
 </div>
 
 
