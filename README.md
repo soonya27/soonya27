@@ -38,6 +38,8 @@
 
 
 ## portfolio example
+
+### [NextJs-Instagram Clone](https://github.com/soonya27/nextJs_instagramClone)
 #### [JSmodule - modal.js](https://github.com/soonya27/modal.js)
 #### [JSgame - cardGame-pick-flip-shuffle-](https://github.com/soonya27/cardGame-pick-flip-shuffle-)
 
