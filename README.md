@@ -1,5 +1,5 @@
 ### pyeon so yeong
-### [편소영(profile)](https://soonya27.github.io/profile000/about.html)
+### [편소영(profile website)](https://myblog-eta-azure.vercel.app/)
 
 ## 📚 Tech Stack 📚
 <div align=center> 
