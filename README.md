@@ -42,13 +42,6 @@
 
 
 
-## portfolio example
-
-### [NextJs-Instagram Clone(인스타그램 클론 코딩 웹 어플리케이션 (nextjs , sanity))](https://github.com/soonya27/nextJs_instagramClone)
-#### [JSmodule - modal.js](https://github.com/soonya27/modal.js)
-#### [JSgame - cardGame-pick-flip-shuffle-](https://github.com/soonya27/cardGame-pick-flip-shuffle-)
-
-
 
 
 
